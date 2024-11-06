@@ -67,6 +67,7 @@
                 app:layout_constraintTop_toBottomOf="@id/rv_popular"
                 app:tabBackground="@drawable/onboarding_selector"
                 app:tabGravity="center"
+                app:tabIndicatorHeight="0dp"
                 app:tabIndicatorColor="@android:color/transparent"
                 app:tabMode="fixed" />
 
